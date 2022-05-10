@@ -3,25 +3,26 @@
     margin: 0;
     box-sizing: border-box;
 }
-.title-main{
-  
+.main{
+    
     padding: 30px;
     width: 800px;
-    height: 600px;
+    height: 700px;
    
 }
 
-.hello-world{
+.title{
     padding: 40px;
     width: 760px;
     height: 200px;
     background-color: rgb(200, 206, 206);
+    margin-bottom: 40px;
 }
 .parent{
-    font-size: 10px;
+    font-size: 12px;
 }
 .side-bar{
-    height: 400px;
+    height: 380px;
     width: 300px;
     margin-left: 25px;
     padding-left: 25px;
@@ -29,12 +30,12 @@
   background-color: rgb(200, 206, 206);
 }
 .side-bar a{
-color: rgb(21, 236, 85);
+color: rgb(49, 167, 247);
 margin: 10px;
-
 display: block;
 
 }
 .parent{
     width: 800px;
+
 }
