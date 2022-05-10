@@ -4,24 +4,37 @@
     box-sizing: border-box;
 }
 .title-main{
-    padding: 40px;
+  
+    padding: 30px;
     width: 800px;
-    height: 200px;
-    background-color: aqua;
+    height: 600px;
+   
 }
-.section-title{
-    display: flex;
+
+.hello-world{
+    padding: 40px;
+    width: 760px;
+    height: 200px;
+    background-color: rgb(200, 206, 206);
+}
+.parent{
+    font-size: 10px;
 }
 .side-bar{
+    height: 400px;
     width: 300px;
     margin-left: 25px;
     padding-left: 25px;
-    background-color: aquamarine;
+    margin-top: 30px;
+  background-color: rgb(200, 206, 206);
 }
 .side-bar a{
-color: rgb(0, 255, 76);
+color: rgb(21, 236, 85);
 margin: 10px;
 
 display: block;
 
+}
+.parent{
+    width: 800px;
 }
